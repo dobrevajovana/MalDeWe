@@ -16,8 +16,6 @@ This repository contains the code for training, evaluating, and using the MalDeW
 
 The MalDeWe model architecture is based on the RoBERTa transformer model, fine-tuned to classify websites as malicious or benign. The model processes JavaScript content as input and generates sentence embeddings, which are then used for binary classification.
 
-![Model Architecture](model_architecture.png)
-
 ## Dataset
 
 The dataset used for training and evaluation is publicly available on [Mendeley](https://data.mendeley.com/datasets/gdx3pkwp47/2). It includes:
