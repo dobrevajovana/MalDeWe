@@ -49,8 +49,6 @@ MalDeWe achieves the following performance metrics when evaluated on the test da
 ## Find the paper
 https://ieeexplore.ieee.org/document/9799038
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This research was supported by the Faculty of Computer Science & Engineering at Ss. Cyril and Methodius University, Skopje.
